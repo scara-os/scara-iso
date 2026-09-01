@@ -1,0 +1,3 @@
+*.iso
+scara-iso-build/
+live-initramfs/
